@@ -3,4 +3,5 @@ i am chinna reddy
 sys admin in kore.ai 
 :wq
 hi 
-i am stupid fellow`
+i am stupid fellow
+updated file `
