@@ -1,3 +1,5 @@
+good after noon fnds
 i am chinna reddy
-hi guys
-updated file
+sys admin in kore.ai 
+:wq
+
