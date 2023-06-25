@@ -6,3 +6,4 @@ hi
 i am stupid fellow
 updated file 
 hyderabad
+  kore.ai
